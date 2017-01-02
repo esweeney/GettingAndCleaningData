@@ -19,4 +19,7 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
 
+Basically this script goes out and downloads the .zip data file, and then reads the pertinant tables off your wd.
+We merge the pertinant data sets to make 1 data set
+We then subset out the appropriate measures and create a tidy data set
 
